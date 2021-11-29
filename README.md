@@ -3,6 +3,9 @@
 
 [![Soltesz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnsoltesz)](https://github.com/shawnsoltesz/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnsoltesz&layout=compact)](https://github.com/shawnsoltesz/github-readme-stats)
+
+
 
 <!--
 **shawnsoltesz/shawnsoltesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
